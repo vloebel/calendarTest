@@ -1,0 +1,1 @@
+This is a test of integrating fullcalendar.io into a js project
